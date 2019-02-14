@@ -1,4 +1,4 @@
-#Codeigniter를 이용한 로그인기능 구현
+#Codeigniter를 이용한 로그인,기능 구현
 
 
 # DB Schema
