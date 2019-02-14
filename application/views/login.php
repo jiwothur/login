@@ -1,6 +1,4 @@
 
-
-
   <div class="col-sm-4">
   <div class="form-group">
     <form action="/index.php/auth/authentication" method="post">

@@ -5,8 +5,8 @@
     <p>
       <?=$topic->description?>
     </p>
+    <br><br><br>
+    <a class="btn btn-primary" href="/index.php/topic/add" role="button">memo</a>
+    <a class="btn btn-primary" href="/index.php/topic" role="button">main</a>
   </article>
-  <div>
-    <a class="btn btn-primary" href="/index.php/topic/add" role="button">추가</a>
-  </div>
 </div>

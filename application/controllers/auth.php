@@ -8,6 +8,11 @@ class Auth extends CI_Controller {
     $this->load->view('login');
     $this->load->view('footer');
   }
+  function memo(){
+    $this->load->view('head');
+    $this->load->view('memo');
+    $this->load->view('footer');
+  }
   function logout(){
     $this->session->sess_destroy();
     $this->load->helper('url');
