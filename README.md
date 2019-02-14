@@ -1,4 +1,5 @@
 #Codeigniter를 이용한 로그인,메모기능 구현
+#mainpage:localhost/index.php/topic
 
 
 # DB Schema
